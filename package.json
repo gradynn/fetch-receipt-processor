@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gradynn/fetch-receipt-processor/issues"
   },
-  "homepage": "https://github.com/gradynn/fetch-receipt-processor#readme"
+  "homepage": "https://github.com/gradynn/fetch-receipt-processor#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
