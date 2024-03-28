@@ -1,0 +1,19 @@
+{
+  "name": "fetch-reciept-processor",
+  "version": "1.0.0",
+  "description": "Implementation of the Fetch Rewards challenge of the same name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradynn/fetch-receipt-processor.git"
+  },
+  "author": "Nagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradynn/fetch-receipt-processor/issues"
+  },
+  "homepage": "https://github.com/gradynn/fetch-receipt-processor#readme"
+}
