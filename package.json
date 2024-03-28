@@ -2,6 +2,7 @@
   "name": "fetch-reciept-processor",
   "version": "1.0.0",
   "description": "Implementation of the Fetch Rewards challenge of the same name.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/gradynn/fetch-receipt-processor#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
   }
 }
