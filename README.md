@@ -1,3 +1,5 @@
+The challenge to which this repository is a response can be found [here](https://github.com/fetch-rewards/receipt-processor-challenge).
+
 # Installation and Running Instructions
 
 This guide will help you set up and run the Receipt Processor application on your local machine using Docker.
