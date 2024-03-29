@@ -39,7 +39,7 @@ This guide will help you set up and run the Receipt Processor application on you
 
 2. **Access the application**
 
-Once the container is running, you can access the Receipt Processor application by navigating to http://localhost:3000 in your web browser.
+   Once the container is running, you can access the Receipt Processor application by navigating to http://localhost:3000 in your web browser.
 
 ## Stopping the Application
 
