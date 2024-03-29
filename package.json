@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/gradynn/fetch-receipt-processor#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
     "uuid": "^9.0.1"
   }
 }
